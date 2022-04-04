@@ -1,0 +1,93 @@
+h1{
+    text-align: center;
+    font-size: 30px;
+
+}
+h3{
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+}
+#asset{
+    background-color: rgb(160, 65, 65);
+    color: rgb(5, 0, 0);
+    height: 200px;
+    font-size: larger;
+}
+img{
+    height: 250px;
+}
+button{
+    align-items: center;
+}
+#parent{
+    height: 80px;
+    background-color: rgb(187, 102, 102);
+    color: white;
+
+}
+#btn1{
+    background-color: gray ;
+}
+#btn2{
+    background-color: rgb(174, 190, 134);
+}
+#btn3{
+    background-color: rgb(140, 211, 233);
+}
+#A{
+    border: 2px solid rgb(141, 46, 46);
+    width: 250px;
+}
+#B{
+    border: 2px solid rgb(121, 52, 52);
+    width: 250px;
+    position: relative;
+    bottom: 160px;
+    right: 250px;
+
+}
+#C{
+    border: 2px solid rgb(139, 52, 52);
+    width: 250px;
+    position: relative;
+    bottom: 319px;
+left: 40px;
+}
+#D{
+    border: 2px solid rgb(160, 97, 97);
+    width: 270px;
+    height: 140px;
+    position: relative;
+    bottom: 480px ;
+    left: 350px;
+}
+#E{
+align-content: center;
+}
+ul{
+    font-size: xx-large;
+    position: relative;
+    bottom: 380px;
+}
+#K{
+    font-size: xx-large;
+    position: relative;
+    left: 60%;
+    bottom: 930px;
+}
+#M{
+    height: 120px;
+    background-color: rgb(139, 62, 62);
+    position: relative; bottom: 900px;
+    color: white;
+
+}
+h2{
+    font-size: xx-large;
+   
+ 
+}
+p{
+    font-size: x-large;
+}
